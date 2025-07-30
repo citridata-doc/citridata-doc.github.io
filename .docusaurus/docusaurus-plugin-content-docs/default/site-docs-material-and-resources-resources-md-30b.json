@@ -1,0 +1,15 @@
+{
+  "id": "Material and Resources/Resources",
+  "title": "Resources",
+  "description": "",
+  "source": "@site/docs/Material and Resources/Resources.md",
+  "sourceDirName": "Material and Resources",
+  "slug": "/Material and Resources/Resources",
+  "permalink": "/docs/Material and Resources/Resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs/docs/Material and Resources/Resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,104 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "CitriData/Introducción",
+          "docs": [
+            {
+              "id": "CitriData/Introducción",
+              "path": "/docs/CitriData/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Competencia de paises terceros en el mercado de cítricos/Introducción",
+              "path": "/docs/Competencia de paises terceros en el mercado de cítricos/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción",
+              "path": "/docs/Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Gestión pre y postcosecha e industria alimentaria/Introducción",
+              "path": "/docs/Gestión pre y postcosecha e industria alimentaria/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Gobernanza y desarrollo de oportunidades de negocio y utilidades/Introducción",
+              "path": "/docs/Gobernanza y desarrollo de oportunidades de negocio y utilidades/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Material and Resources/Material",
+              "path": "/docs/Material and Resources/Material"
+            },
+            {
+              "id": "Material and Resources/Resources",
+              "path": "/docs/Material and Resources/Resources"
+            },
+            {
+              "id": "Observación de la Tierra y el clima/Introducción",
+              "path": "/docs/Observación de la Tierra y el clima/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Optimización de agua y energía/Introducción",
+              "path": "/docs/Optimización de agua y energía/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets/001",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets/002",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/002",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets/DataSets",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Introducción",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Packages/001",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/001",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Packages/002",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/002",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Packages/Packages",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/CitriData/Introducción",
+                "label": "CitriData/Introducción"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
